@@ -15,7 +15,7 @@ Remember that one of the best ways to learn is to read and experiment.
 If interested in my comments and approach, I invite you to read
 the associated post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/10/11/binary-tree-upside-down/
 
 Enjoy;
 
